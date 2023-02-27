@@ -14,7 +14,7 @@ spec:
       include: '*.yaml'
       recurse: true
     path: ./prometheus
-    repoURL: https://github.com/microsoft/kalypso-svc-gitops
+    repoURL: https://github.com/munishm/kalypso-svc-gitops
     targetRevision: dev
   syncPolicy:
     automated:
